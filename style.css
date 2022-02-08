@@ -7,6 +7,7 @@
     margin-top: 5px;
     color: white;
     font-size: 20px;
+    display: block;
 }
 .question1{
     width: 600px;
@@ -97,6 +98,13 @@
     display: none;
 }
 .btn{
+    width: 250px;
+    height: 40px;
+    border-radius: 25px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.btnr{
     width: 250px;
     height: 40px;
     border-radius: 25px;
