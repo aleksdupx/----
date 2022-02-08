@@ -97,7 +97,42 @@
     font-size: 20px;
     display: none;
 }
-.btn{
+.btnm{
+    width: 250px;
+    height: 40px;
+    border-radius: 25px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.btnm1{
+    width: 250px;
+    height: 40px;
+    border-radius: 25px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.btnm2{
+    width: 250px;
+    height: 40px;
+    border-radius: 25px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.btnm3{
+    width: 250px;
+    height: 40px;
+    border-radius: 25px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.btnm4{
+    width: 250px;
+    height: 40px;
+    border-radius: 25px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.btnm5{
     width: 250px;
     height: 40px;
     border-radius: 25px;
@@ -111,7 +146,42 @@
     margin-top: 20px;
     margin-left: 30px;
 }
-.btn1{
+.btnr1{
+    width: 250px;
+    height: 40px;
+    border-radius: 25px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.btnr2{
+    width: 250px;
+    height: 40px;
+    border-radius: 25px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.btn1m{
+    width: 540px;
+    height: 40px;
+    border-radius: 25px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.btn1r{
+    width: 540px;
+    height: 40px;
+    border-radius: 25px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.btn1m2{
+    width: 540px;
+    height: 40px;
+    border-radius: 25px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.btn1r2{
     width: 540px;
     height: 40px;
     border-radius: 25px;
@@ -127,5 +197,12 @@
     width: 150px;
     height: 25px;
     margin-top: 25px;
-    margin-left: 35%;
+    margin-left: 225px;
+}
+.btni{
+    width: 100px;
+    height: 40px;
+    border-radius: 25px;
+    margin-left: 250px;
+    margin-top: 10px;
 }
