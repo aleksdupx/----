@@ -53,3 +53,45 @@ btni.onclick = function que() {
         alert('Сыыһа')
     }
 }
+// 6 
+document.querySelector(".btnr3").onclick = function nright3() {
+    document.querySelector(".question5").style.display = "none"
+    document.querySelector(".question6").style.display = "block"
+}
+document.querySelector(".btnm7").onclick = function mistake() {
+    alert ('Сыыһа')
+}
+document.querySelector(".btnm8").onclick = function mistake() {
+    alert ('Сыыһа')
+}
+// 7 
+document.querySelector(".btn1r3").onclick = function right() {
+    document.querySelector(".question6").style.display = "none"
+    document.querySelector(".question7").style.display = "block"
+}
+document.querySelector(".btn1m3").onclick = function mistake() {
+    alert ('Сыыһа')
+}
+// 8 
+document.querySelector(".btnr4").onclick = function nright3() {
+    document.querySelector(".question7").style.display = "none"
+    document.querySelector(".question8").style.display = "block"
+}
+document.querySelector(".btnm9").onclick = function mistake() {
+    alert ('Сыыһа')
+}
+document.querySelector(".btnm10").onclick = function mistake() {
+    alert ('Сыыһа')
+}
+// 9
+btni1.onclick = function que() {
+    let a = document.getElementById('que1').value
+    if (a == 4213) {
+        alert('Маладьыас')
+        document.querySelector(".question8").style.display = "none"
+        document.querySelector(".question").style.display = "block"
+    }
+    else{
+        alert('Сыыһа')
+    }
+}
