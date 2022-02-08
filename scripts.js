@@ -73,16 +73,13 @@ document.querySelector(".btn1m3").onclick = function mistake() {
     alert ('Сыыһа')
 }
 // 8 
-document.querySelector(".btnr4").onclick = function nright3() {
+document.querySelector(".btn1r4").onclick = function right() {
     document.querySelector(".question7").style.display = "none"
     document.querySelector(".question8").style.display = "block"
 }
-document.querySelector(".btnm9").onclick = function mistake() {
+document.querySelector(".btn1m4").onclick = function mistake() {
     alert ('Сыыһа')
-}
-document.querySelector(".btnm10").onclick = function mistake() {
-    alert ('Сыыһа')
-}
+} 
 // 9
 btni1.onclick = function que() {
     let a = document.getElementById('que1').value
